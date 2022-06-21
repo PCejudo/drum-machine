@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PCejudo/drum-machine.git/static/css/main.f3020b33.css",
+    "main.js": "/PCejudo/drum-machine.git/static/js/main.248aa77b.js",
+    "index.html": "/PCejudo/drum-machine.git/index.html",
+    "main.f3020b33.css.map": "/PCejudo/drum-machine.git/static/css/main.f3020b33.css.map",
+    "main.248aa77b.js.map": "/PCejudo/drum-machine.git/static/js/main.248aa77b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3020b33.css",
+    "static/js/main.248aa77b.js"
+  ]
+}
